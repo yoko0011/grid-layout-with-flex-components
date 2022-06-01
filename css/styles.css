@@ -1,8 +1,8 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    color: #222;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #222;
 }
-  
+
 .emojis {
   display: grid;
   align-items: stretch;
@@ -25,7 +25,7 @@ body {
 }
 
 .emoji p {
-  margin: 30; 
+  margin: 30;
   padding: 30;
 }
 
@@ -49,4 +49,3 @@ body {
   text-align: center;
   order: -1;
 }
-
